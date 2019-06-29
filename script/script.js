@@ -8,3 +8,5 @@ let period;
 alert('Да, это - жестко!');
 
 console.log('qwerty');
+
+console.log('Change')
